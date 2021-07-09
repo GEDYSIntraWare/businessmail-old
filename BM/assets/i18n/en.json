@@ -1,0 +1,16 @@
+{
+    "webIntInputTitle": "Enter WebInt URL",
+    "webIntInputText": "Please enter the URL to the WebInt.nsf.\n(Example: https://www.example.com/webint.nsf)\n\n",
+    "webIntLogout": "Warning: You will be logged out from the current WebInt!",
+    "webIntInvalid": "This URL is invalid.",
+    "webIntHttp": "Only URLs with HTTPS are applicable.",
+    "webIntCertError": "The entered URL could not be fetched.\nPlease check if the entered URL is complete, uses HTTPS or if it uses an invalid / insecure certificate.\nTo allow the use of an invalid / insecure certificate, please accept it manually at:",
+    "webIntCheck": "WebInt could not be opened.\nPlease check your input.",
+    "webIntLogoutFailed": "Could not log out!",
+    "webIntConfig": "WebInt Configuration",
+    "reload": "Reload",
+    "popupBlocked": "Opening the login page was blocked. Please check your browser settings.",
+    "cantConnect": "Cannot establish connection.",
+    "graph": "Connection to Microsoft Graph failed. Please check your browser settings and sign in.",
+    "graphRelog": "Please sign out from Microsoft Graph and try again."
+}
