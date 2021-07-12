@@ -4627,7 +4627,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 // eslint-disable-next-line @typescript-eslint/naming-convention
 const OAuthSettings = {
-    appId: '487bf2b8-965b-4e53-b071-3c13164313ca',
+    appId: '7266f852-5153-4933-b8f4-de2866a1aa19',
     redirectUri: 'https://gomobile.gedys-intraware.de/BusinessMail',
     /*appId: '82cc362f-b9da-43a3-b9f8-3008e6d47d9e',
     redirectUri: 'https://localhost:3000/gi8bm',*/
