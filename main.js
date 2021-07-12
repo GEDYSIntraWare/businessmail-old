@@ -1001,7 +1001,7 @@ class AppComponent {
         this.initService = initService;
         this.connectorFactory = connectorFactory;
         this.globals = globals;
-        this.title = 'BusinessMail';
+        this.title = 'Business Mail';
         this.newCSS = {
             main: {},
             overflowContainer: {},
