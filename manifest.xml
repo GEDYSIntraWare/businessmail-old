@@ -6,8 +6,8 @@
   <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="Business Mail"/>
   <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
-  <IconUrl DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_80.png"/>
-  <HighResolutionIconUrl DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_80.png"/>
+  <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_80.png"/>
+  <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_80.png"/>
   <SupportUrl DefaultValue="https://www.gedys-intraware.de"/>
   <AppDomains>
     <AppDomain>https://www.gedys-intraware.de</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://vopint.gedys-intraware.de/gi8bm/"/>
+        <SourceLocation DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -70,13 +70,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://vopint.gedys-intraware.de/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="GEDYS IntraWare Add-in"/>
@@ -124,13 +124,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/assets/gi_logo_80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/assets/gi_logo_80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://vopint.gedys-intraware.de/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://vopint.gedys-intraware.de/gi8bm/index.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://gomobile.gedys-intraware.de/BusinessMail/index.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="GEDYS IntraWare Add-in"/>
