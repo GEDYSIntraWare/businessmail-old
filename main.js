@@ -4628,7 +4628,7 @@ __webpack_require__.r(__webpack_exports__);
 // eslint-disable-next-line @typescript-eslint/naming-convention
 const OAuthSettings = {
     appId: '7266f852-5153-4933-b8f4-de2866a1aa19',
-    redirectUri: 'https://gomobile.gedys-intraware.de/BusinessMail',
+    redirectUri: 'https://gomobile.gedys-intraware.de/businessmail',
     /*appId: '82cc362f-b9da-43a3-b9f8-3008e6d47d9e',
     redirectUri: 'https://localhost:3000/gi8bm',*/
     scopes: ['user.read', 'mail.readbasic', 'mail.read', 'Mail.ReadWrite'],
