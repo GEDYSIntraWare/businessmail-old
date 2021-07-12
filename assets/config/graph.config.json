@@ -1,5 +1,0 @@
-{
-    "appId": "example",
-    "redirectUri": "",
-    "scopes": ["user.read", "mail.readbasic", "mail.read", "Mail.ReadWrite"]
-}
