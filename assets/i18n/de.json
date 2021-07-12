@@ -13,5 +13,5 @@
     "cantConnect": "Verbindung kann nicht aufgebaut werden.",
     "graph": "Verbindung zu Microsoft Graph nicht möglich. Bitte überprüfen Sie Ihre Browser-Einstellungen und melden sich erneut an.",
     "graphRelog": "Bitte melden Sie sich von Microsoft Graph ab und versuchen es erneut.",
-    "licences": "Lizenzen"
+    "licenses": "Lizenzen"
 }

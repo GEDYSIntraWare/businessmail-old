@@ -13,5 +13,5 @@
     "cantConnect": "Cannot establish connection.",
     "graph": "Connection to Microsoft Graph failed. Please check your browser settings and sign in.",
     "graphRelog": "Please sign out from Microsoft Graph and try again.",
-    "licences": "Licences"
+    "licenses": "Licenses"
 }
